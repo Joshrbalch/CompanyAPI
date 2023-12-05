@@ -26,13 +26,13 @@ Usage
 
     bash
 
-javac -cp ".:ojdbc.jar" Bonus.java
+javac -cp "./ojdbc.jar;" Bonus.java
 
 Run the program:
 
 bash
 
-    java -cp ".:ojdbc.jar" Bonus
+    java -cp "./ojdbc.jar;" Bonus.java
 
     Follow the on-screen instructions to input an SSN, department name, or 'quit' to exit.
 
