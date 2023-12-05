@@ -7,6 +7,11 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 
+/**
+ *
+ * @author Joshua Balch
+ */
+
 public class Bonus {
 
     public static void main(String[] args) throws FileNotFoundException {
